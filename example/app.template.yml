@@ -1,0 +1,25 @@
+name: 
+description:
+icon: 
+# screenshots are optional
+screenshots:
+  
+# website is optional
+website: 
+# git repo is optional
+git_repo: 
+download:
+  url: 
+  version:
+type:
+license:
+author: 
+maintainer: 
+#donation is optional
+donation:
+has_ads:
+has_tracking:
+meta:
+  tags: 
+  categories:
+   -
