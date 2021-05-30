@@ -1,0 +1,25 @@
+name: 哔哩哔哩
+description: 哔哩哔哩 for KaiOS 非官方客户端
+icon: https://cdn.jsdelivr.net/gh/openkaios/bilibili_kaios@main/img/icons/icon128x128.png
+# screenshots are optional
+screenshots:
+  
+# website is optional
+website: https://github.com/openkaios/bilibili_kaios
+# git repo is optional
+git_repo: https://github.com/openkaios/bilibili_kaios
+download:
+  url: https://git.yumenaka.net/https://github.com/openkaios/bilibili_kaios/releases/download/v1.6/bilibili_kaios_v1.6-omnisd.zip
+  version: 1.6
+type: privileged
+license: MIT
+author: openkaios
+maintainer: openkaios
+#donation is optional
+donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: bilibili
+  categories:
+   - multimedia
