@@ -28,4 +28,4 @@ App id 是应用程序的域反转，例如：`app.example.com` 将是 `com.exam
 - https://github.com/openkaios/openkaios-store-client
 
 ### Desktop Website
-- https://github.com/jkelol111/webstore ([live version](https://jkelol111.github.io/webstore/))
+ （暂无）
