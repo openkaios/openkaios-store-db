@@ -1,37 +1,31 @@
-# B-Hackers Store - DB
+# openKaiOS Store - DB
 
-Database of all apps in the Banana Hackers store. This is where the app fetches its data from.
+这里是 openKaiOS 商店的数据库仓库，这里是基于 bHacker 的非官方商店。
 
+## 如何上架应用到商店
 
+要添加您的 app，您需要创建一个描述它的文件。该文件的名称应为 `[app id].yml` 并位于 `apps` 文件夹中。
 
-## How to add a your app to this store
+App id 是应用程序的域反转，例如：`app.example.com` 将是 `com.example.app`
 
-To add your app you need to create an file that describes it.
-That file should have the name `[app id].yml` and be located in the `apps` folder.
+您可以下载 `example/app.template.yml` 模板并填写对应的值，可以参考其他 app。
 
-the app id is the is the domain of the app reversed, for example:
-'app.example.com' is going to be 'com.example.app' 
+为了存储/服务您的开源应用程序，我们推荐 GitHub 或 Gitee release 处获取。
 
-You can copy and fill out `example/app.template.yml`,
-look at the other apps to see how the format works.
+## 滥用
 
-For storing/serving your opensource app we recommend github or gitlab releases.
+如果您看到一个应用程序
 
-Also look at our [documentation](./DOCUMENTATION.md).
+- 窃取您的数据
+- 包含恶意软件
+- 或者对您的设备有破坏性行为...
 
-## Abuse
+请在 issue  中报告该应用程序，我们将对其进行调查。
 
-If you see an app that
-- steals your data
-- contains malware
-- or does other bad stuff with your device...
+## 客户端
 
-Please report that app in an gitlab issue and we'll look into it.
-
-## Clients
-
-### App for KaiOS / GerdaROM devices
-- https://github.com/strukturart/kaiOs-alt-app-store
+### KaiOS / GerdaROM devices
+- https://github.com/openkaios/openkaios-store-client
 
 ### Desktop Website
 - https://github.com/jkelol111/webstore ([live version](https://jkelol111.github.io/webstore/))
