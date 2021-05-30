@@ -29,3 +29,11 @@ App id 是应用程序的域反转，例如：`app.example.com` 将是 `com.exam
 
 ### Desktop Website
  （暂无）
+
+## Backend
+本商店的基本构成均基于以下项目：
+
+ - DB & DB Generator: [https://gitlab.com/banana-hackers/store-db](https://gitlab.com/banana-hackers/store-db)
+ - Client: [https://github.com/strukturart/bHacker-store-client](https://github.com/strukturart/bHacker-store-client)
+ - Web: [https://github.com/jkelol111/webstore](https://github.com/jkelol111/webstore)
+ - Rating Server: [https://gitlab.com/banana-hackers/simple-ratings-server](https://gitlab.com/banana-hackers/simple-ratings-server)
