@@ -1,46 +1,49 @@
-# Privacy Policy and Terms of use
+# 隐私政策和使用条款
 
-Your privacy is important to us, that's why we try to collect only the data that we need
-to provide the service to you.
+您的隐私对我们很重要，这就是我们尝试只收集我们需要的数据的原因为您提供服务。
 
-## Data that might get collected while using the app
+## 使用应用程序时可能会收集到的数据
 
-We rely on gitlab pages for hosting the data, this service might store cookies and save your ip address (https://about.gitlab.com/privacy/)
+我们依靠 GitHub 页面来托管数据，此服务可能会存储 cookie 并保存您的 IP 地址 (https://docs.github.com/en/github/site-policy/github-privacy-statement)
 
-We **only link** to the app packages, we don't host them ourselves so when downloading apps you will download them from thirdparty servers who can then see your ip address.
+我们**只链接**到应用程序包，当然如果部分应用有托管上的问题，我们也提供另外的托管地址，因此在下载应用程序时，您将可以看到您的 IP 地址的第三方服务器下载它们。
 
-### Data that might be shared with third paries
+由我们帮助托管的程序仓库地址：https://gitee.com/liaronce/openkaios-store-binary
 
-- IP address when downloading apps
+### 可能与第三方共享的数据
 
-### Download Counter and ratings
+- 下载应用程序时的IP地址
 
-When using the app we fetch the download count for all apps from our ratings server.
-This request might be logged, but we don't explicitly store your ip address.
+### 下载计数器和评级
 
-When downloading apps a request to the download counter will be made to increase it, this request contains:
+使用应用程序时，我们从评级服务器获取所有应用程序的下载计数。此请求可能会被记录，但我们不会明确存储您的 IP 地址。
 
-- The name of the downloaded app
-- the time of the download
-- The IP address of the user, but its not explicitly saved at the moment.
+下载应用程序时，将向下载计数器发出请求以增加它，该请求包含：
 
-When fetching the ratings for an app the server gets the requested appname and the ip address but it is not explicitly saved.
+- 下载的应用程序的名称
+- 下载时间
+- 用户的 IP 地址，但目前没有明确保存。
 
-When rating apps we store your nickname and your ratings on our server to make the service possible.
+在获取应用程序的评级时，服务器获取请求的应用程序名称和 IP 地址，但并未明确保存。
 
-### Analytics
+在对应用程序进行评分时，我们会将您的昵称和评分存储在我们的服务器上，以便提供服务。
 
-Besides from counting downloads we don't do any analytics.
-But the apps you download might do it, have ads or even track you.
-We try to label apps that have tracking and/or advertisement.
+### 分析
 
-## Liability & Warranty
+除了计算下载量之外，我们不做任何分析。
 
-This service is community maintained and provided on a best-effort basis.
-We try our best make sure the data is correct, but we do not give any warranties that the information is correct. Use this service on your own risk.
+但是您下载的应用程序可能会这样做、有广告甚至跟踪您。
 
-By using this service you agree to **not** hold us accountable for any damages that might occur while using this service or from apps that were downloaded through this service. Again you use this service on your OWN RISK!
+我们尝试标记具有跟踪和广告的应用程序。
 
-## Abuse
+## 责任和保证
 
-If you see an app that violates you rights or does bad stuff with your device, please report it on [gitlab issues](https://gitlab.com/banana-hackers/store-db/-/issues)
+该服务由社区维护并尽最大努力提供。
+
+我们尽最大努力确保数据正确，但我们不保证信息的正确性。使用此服务的风险由您自行承担。
+
+使用此服务即表示您同意**不**让我们对使用此服务或通过此服务下载的应用程序时可能发生的任何损害负责。再次使用此服务的风险由您自行承担！
+
+## 滥用
+
+如果您发现某个应用侵犯了您的权利或破坏了您的设备，请在 [GitHub  问题](https://github.com/openkaios/openkaios-store-db/issues) 上报告
