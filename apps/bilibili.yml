@@ -10,7 +10,7 @@ website: https://github.com/openkaios/bilibili_kaios
 git_repo: https://github.com/openkaios/bilibili_kaios
 download:
   url: https://git.yumenaka.net/https://github.com/openkaios/bilibili_kaios/releases/download/v1.6/bilibili_kaios_v1.6-omnisd.zip
-  version: 1.6
+  version: "1.6"
 type: privileged
 license: MIT
 author: openkaios
