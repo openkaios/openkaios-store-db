@@ -1,0 +1,27 @@
+name: IT之家
+description: IT之家 KaiOS 版
+icon: https://cdn.jsdelivr.net/gh/openkaios/ithome_kaios@main/application/img/icon.png
+# screenshots are optional
+screenshots:
+  
+# website is optional
+website: http://www.ithome.com/
+# git repo is optional
+git_repo: https://github.com/openkaios/ithome_kaios
+download:
+  url: https://git.yumenaka.net/https://github.com/openkaios/ithome_kaios/releases/download/0.2/ithome-omnisd-0.2.zip
+  version: "0.2"
+type: privileged
+license: MIT
+author: zixing
+maintainer: 
+  - zixing
+  - openkaios
+#donation is optional
+donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: ithome
+  categories:
+   - news

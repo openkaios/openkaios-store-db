@@ -1,6 +1,6 @@
 name: 哔哩哔哩 (Dev)
 description: 哔哩哔哩 for KaiOS 非官方客户端 (开发版)
-icon: https://cdn.jsdelivr.net/gh/openkaios/bilibili_kaios@main/img/icons/icon128x128.png
+icon: https://cdn.jsdelivr.net/gh/openkaios/bilibili_kaios@main/application/img/icons/icon128x128.png
 # screenshots are optional
 screenshots:
   

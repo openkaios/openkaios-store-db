@@ -1,0 +1,26 @@
+name: 哔哩哔哩漫画
+description: 哔哩哔哩漫画 for KaiOS 非官方客户端
+icon: https://cdn.jsdelivr.net/gh/openkaios/bilibili_manga@main/application/img/icons/icon128x128.png
+# screenshots are optional
+screenshots:
+  
+# website is optional
+website: https://github.com/openkaios/bilibili_manga
+# git repo is optional
+git_repo: https://github.com/openkaios/bilibili_manga
+download:
+  url: https://git.yumenaka.net/https://github.com/openkaios/bilibili_manga/releases/download/1.0.1/bilibili_manga-omnisd-1.0.1.zip
+  version: "1.0.1"
+type: privileged
+license: MIT
+author: michael_eddy
+maintainer: 
+  - michael_eddy
+  - openkaios
+donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: bilibili, manga
+  categories:
+   - multimedia
