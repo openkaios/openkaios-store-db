@@ -5,9 +5,9 @@ icon: https://cdn.jsdelivr.net/gh/openkaios/openkaios-store-binary@main/icon128x
 screenshots:
   
 # website is optional
-website:
+
 # git repo is optional
-git_repo:
+
 download:
   url: https://cdn.jsdelivr.net/gh/openkaios/openkaios-store-binary@main/ALLA_0.1.2.zip
   version: "0.1.2"
