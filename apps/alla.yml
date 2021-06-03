@@ -1,0 +1,26 @@
+name: ALLA
+description: ALLA 应用管理
+icon: https://cdn.jsdelivr.net/gh/openkaios/openkaios-store-binary@main/icon128x128.png
+# screenshots are optional
+screenshots:
+  
+# website is optional
+website:
+# git repo is optional
+git_repo:
+download:
+  url: https://cdn.jsdelivr.net/gh/openkaios/openkaios-store-binary@main/ALLA_0.1.2.zip
+  version: "0.1.2"
+type: certified
+license: Unknown
+author: Lcsunm
+maintainer: 
+  - Lcsunm
+#donation is optional
+donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: alla
+  categories:
+   - utility
