@@ -1,15 +1,15 @@
 name: ALLA
 description: ALLA 应用管理
-icon: https://cdn.jsdelivr.net/gh/openkaios/openkaios-store-binary@main/icon128x128.png
+icon: https://cdn.jsdelivr.net/gh/Lcsunm/ALLA-KaiOS@v0.1.2/application/icons/icon128x128.png
 # screenshots are optional
 screenshots:
   
 # website is optional
-website: https://openkaios.top
+website: https://github.com/Lcsunm/ALLA-KaiOS
 # git repo is optional
-git_repo: https://openkaios.top
+git_repo: https://github.com/Lcsunm/ALLA-KaiOS
 download:
-  url: https://cdn.jsdelivr.net/gh/openkaios/openkaios-store-binary@main/ALLA_0.1.2.zip
+  url: https://git.yumenaka.net/https://github.com/Lcsunm/ALLA-KaiOS/releases/download/v0.1.2/alla-omnisd-nightly.zip
   version: "0.1.2"
 type: certified
 license: Unknown
