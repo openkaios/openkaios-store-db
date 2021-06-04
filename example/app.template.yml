@@ -12,6 +12,8 @@ download:
   url: 
   version:
 type:
+locales: 
+  
 license:
 author: 
 maintainer: 
