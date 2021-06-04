@@ -84,6 +84,12 @@
                             "type": "string"
                         }
                     },
+                    "locales": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
                     "meta": {
                         "type": "object",
                         "properties": {
@@ -119,6 +125,7 @@
                     "download",
                     "author",
                     "maintainer",
+                    "locales",
                     "meta",
                     "type",
                     "slug"
