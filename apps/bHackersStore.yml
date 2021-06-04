@@ -22,4 +22,5 @@ meta:
   categories: 
    - utility
 type: certified
-
+locales: 
+  - English

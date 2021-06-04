@@ -12,6 +12,8 @@ download:
   url: https://git.yumenaka.net/https://github.com/openkaios/ithome_kaios/releases/download/0.2/ithome-omnisd-0.2.zip
   version: "0.2"
 type: privileged
+locales: 
+  - 中文(简体)
 license: MIT
 author: zixing
 maintainer: 

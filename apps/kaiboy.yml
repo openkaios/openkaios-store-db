@@ -12,6 +12,8 @@ download:
   url: https://cdn.discordapp.com/attachments/687788038298140732/834354419800735764/KaiBoy-0.1.0.gpkg.zip
   version: 0.1.0
 type: privileged
+locales: 
+  - English
 license: Unknown
 author: Luxferre/Suborg/Nihilist
 maintainer: jkelol111

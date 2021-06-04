@@ -12,6 +12,8 @@ download:
   url: https://git.yumenaka.net/https://github.com/openkaios/bilibili_kaios/releases/download/main/bilibili_kaios-omnisd-nightly.zip
   version: "nightly"
 type: privileged
+locales: 
+  - 中文(简体)
 license: MIT
 author: openkaios
 maintainer: openkaios

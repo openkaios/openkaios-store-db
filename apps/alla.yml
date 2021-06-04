@@ -12,6 +12,8 @@ download:
   url: https://git.yumenaka.net/https://github.com/Lcsunm/ALLA-KaiOS/releases/download/v0.1.2/alla-omnisd-nightly.zip
   version: "0.1.2"
 type: certified
+locales: 
+  - 中文(简体)
 license: Unknown
 author: Lcsunm
 maintainer: 

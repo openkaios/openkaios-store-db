@@ -12,6 +12,8 @@ download:
   url: https://git.yumenaka.net/https://github.com/openkaios/chelaile/releases/download/1.0/chelaile-omnisd-1.0.zip
   version: "1.0"
 type: certified
+locales: 
+  - 中文(简体)
 license: MIT
 author: michael_eddy
 maintainer: 

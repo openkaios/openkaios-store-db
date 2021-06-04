@@ -12,6 +12,8 @@ download:
   url: https://git.yumenaka.net/https://github.com/openkaios/bilibili_kaios/releases/download/v1.6/bilibili_kaios_v1.6-omnisd.zip
   version: "1.6"
 type: privileged
+locales: 
+  - 中文(简体)
 license: MIT
 author: openkaios
 maintainer: openkaios
