@@ -19,7 +19,6 @@ author: michael_eddy
 maintainer: 
   - michael_eddy
   - openkaios
-dependencies: 
 donation:
 has_ads: false
 has_tracking: false

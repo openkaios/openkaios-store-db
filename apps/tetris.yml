@@ -19,7 +19,6 @@ author: michael-eddy
 maintainer: 
   - michael-eddy
   - Lcsunm
-dependencies: 
 # donation is optional
 # donation:
 has_ads: false

@@ -21,7 +21,6 @@ locales:
 license: MIT
 author: zjyl1994 <me@zjyl1994.com>
 maintainer: zjyl1994 <me@zjyl1994.com>
-dependencies: 
 #donation is optional
 donation: https://www.buymeacoffee.com/zjyl1994
 has_ads: false
