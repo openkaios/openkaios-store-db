@@ -19,6 +19,10 @@ author: Lcsunm
 maintainer: 
   - Lcsunm
 dependencies: 
+  - name: Test
+    url: https://github.com/Lcsunm/Intent-KaiOS
+  - name: Test2
+    url: 
 #donation is optional
 donation:
 has_ads: false
