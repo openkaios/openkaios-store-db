@@ -19,6 +19,7 @@ author: michael_eddy
 maintainer: 
   - michael_eddy
   - openkaios
+dependencies: 
 #donation is optional
 donation:
 has_ads: false
