@@ -9,8 +9,8 @@ website: https://www.chelaile.net.cn/
 # git repo is optional
 git_repo: https://github.com/openkaios/chelaile
 download:
-  url: https://git.yumenaka.net/https://github.com/openkaios/chelaile/releases/download/1.0/chelaile-omnisd-1.0.zip
-  version: "1.0"
+  url: https://git.yumenaka.net/https://github.com/openkaios/chelaile/releases/download/1.0.1/chelaile-omnisd-1.0.1.zip
+  version: "1.0.1"
 type: certified
 locales: 
   - 中文(简体)

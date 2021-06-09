@@ -14,7 +14,7 @@ download:
 type: certified
 locales: 
   - 中文(简体)
-license: Unknown
+license: MIT
 author: Lcsunm
 maintainer: 
   - Lcsunm
