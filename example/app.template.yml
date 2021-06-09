@@ -17,6 +17,7 @@ locales:
 license:
 author: 
 maintainer: 
+dependencies: 
 #donation is optional
 donation:
 has_ads:
