@@ -19,6 +19,7 @@ author: zixing
 maintainer: 
   - zixing
   - openkaios
+dependencies: 
 #donation is optional
 donation:
 has_ads: false

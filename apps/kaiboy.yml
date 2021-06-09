@@ -17,6 +17,7 @@ locales:
 license: Unknown
 author: Luxferre/Suborg/Nihilist
 maintainer: jkelol111
+dependencies: 
 # donation is optional
 # donation:
 has_ads: false

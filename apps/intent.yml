@@ -18,6 +18,7 @@ license: MIT
 author: Lcsunm
 maintainer: 
   - Lcsunm
+dependencies: 
 #donation is optional
 donation:
 has_ads: false
