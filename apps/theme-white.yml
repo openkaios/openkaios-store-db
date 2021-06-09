@@ -21,6 +21,8 @@ maintainer:
 dependencies: 
   - name: Intent
     url: https://store.openkaios.top/#intent
+  - name: ALLA
+    url: https://store.openkaios.top/#alla
 # donation is optional
 # donation:
 has_ads: false
