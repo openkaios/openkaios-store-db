@@ -84,6 +84,12 @@
                             "type": "string"
                         }
                     },
+                    "dependencies": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
                     "locales": {
                         "type": "array",
                         "items": {
