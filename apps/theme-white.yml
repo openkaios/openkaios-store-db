@@ -19,7 +19,8 @@ author: Lcsunm
 maintainer: 
   - Lcsunm
 dependencies: 
-  - Intent
+  - name: Intent
+    url: https://store.openkaios.top/#intent
 # donation is optional
 # donation:
 has_ads: false
