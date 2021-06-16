@@ -1,5 +1,4 @@
 name: Social
 icon: fas fa-users
 locales: 
-  - locale: zh-CN
-    text: 社交
+  - zh-CN: 社交

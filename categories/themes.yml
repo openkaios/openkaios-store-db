@@ -3,5 +3,4 @@ description: Themes for KaiOS, need Intent Tools
 ## Font Awesome icon name (fontawesome.com)
 icon: fas fa-tshirt
 locales: 
-  - locale: zh-CN
-    text: 主题
+  - zh-CN: 主题

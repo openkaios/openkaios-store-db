@@ -2,5 +2,4 @@ name: Utility
 description: Utilities to help with daily functions.
 icon: fas fa-wrench
 locales: 
-  - locale: zh-CN
-    text: 工具
+  - zh-CN: 工具

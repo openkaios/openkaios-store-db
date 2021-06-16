@@ -1,5 +1,4 @@
 name: Search
 icon: fas fa-search
 locales: 
-  - locale: zh-CN
-    text: 搜索引擎
+  - zh-CN: 搜索引擎

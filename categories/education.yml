@@ -3,5 +3,4 @@ description: Apps that provide access to Education sources.
 ## Font Awesome icon name (fontawesome.com)
 icon: fas fa-book-reader
 locales: 
-  - locale: zh-CN
-    text: 教育
+  - zh-CN: 教育
