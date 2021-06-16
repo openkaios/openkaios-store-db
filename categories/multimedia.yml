@@ -2,4 +2,5 @@ name: Multimedia
 description: Apps to help with entertainment
 icon: fas fa-film
 locales: 
-  - zh-CN: 多媒体
+  - locale: zh-CN
+    text: 多媒体

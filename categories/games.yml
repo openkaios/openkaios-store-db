@@ -3,4 +3,5 @@ description: Test your finger speed.
 ## Font Awesome icon name (fontawesome.com)
 icon: fas fa-gamepad
 locales: 
-  - zh-CN: 游戏
+  - locale: zh-CN
+    text: 游戏

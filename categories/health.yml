@@ -2,4 +2,5 @@ name: Health
 description: Health related utilities
 icon: fas fa-file-medical
 locales: 
-  - zh-CN: 健康
+  - locale: zh-CN
+    text: 健康
