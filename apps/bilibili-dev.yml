@@ -9,7 +9,7 @@ website: https://github.com/openkaios/bilibili_kaios
 # git repo is optional
 git_repo: https://github.com/openkaios/bilibili_kaios
 download:
-  url: https://git.yumenaka.net/https://github.com/openkaios/bilibili_kaios/releases/download/main/bilibili_kaios-omnisd-nightly.zip
+  url: https://git.yumenaka.net/https://github.com/openkaios/bilibili_kaios/releases/download/nightly/bilibili_kaios-omnisd-nightly.zip
   version: "nightly"
 type: privileged
 locales: 
