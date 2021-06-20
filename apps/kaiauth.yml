@@ -30,3 +30,4 @@ meta:
   tags: 2fa; totp; authenticator
   categories:
     - utility
+fromstore: false

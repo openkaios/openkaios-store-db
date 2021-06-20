@@ -25,3 +25,4 @@ meta:
 type: certified
 locales: 
   - English
+fromstore: false
