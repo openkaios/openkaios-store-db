@@ -1,6 +1,6 @@
 name: "2048"
 description: Use the directional keys to merge numbers until you get to 2048! Keep playing beyond 2048 to showoff your skills and achieve the top score.
-icon: https://cdn.jsdelivr.net/gh/openkaios/openkaios-store-binary@main/apps/FromStoreGames/2048/icon128x128.png
+icon: https://cdn.jsdelivr.net/gh/openkaios/openkaios-store-binary@main/apps/FromStoreGames/2048/2048_112.png
 # screenshots are optional
 # screenshots: 
   
