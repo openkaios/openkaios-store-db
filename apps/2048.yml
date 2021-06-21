@@ -7,7 +7,7 @@ icon: https://cdn.jsdelivr.net/gh/openkaios/openkaios-store-binary@main/apps/Fro
 # website is optional
 website: http://kaiostech.com
 # git repo is optional
-git_repo: 
+# git_repo: 
 download:
   url: https://cdn.jsdelivr.net/gh/openkaios/openkaios-store-binary@main/apps/FromStoreGames/2048/2048.zip
   version: "1.4.2"
