@@ -1,15 +1,15 @@
 name: IT之家
 description: IT之家 KaiOS 版
-icon: https://cdn.jsdelivr.net/gh/openkaios/ithome_kaios@main/application/img/icon.png
+icon: https://cdn.jsdelivr.net/gh/openGiraffes/ithome_kaios@main/application/img/icon.png
 # screenshots are optional
 screenshots:
   
 # website is optional
 website: http://www.ithome.com/
 # git repo is optional
-git_repo: https://github.com/openkaios/ithome_kaios
+git_repo: https://github.com/openGiraffes/ithome_kaios
 download:
-  url: https://git.yumenaka.net/https://github.com/openkaios/ithome_kaios/releases/download/0.2/ithome-omnisd-0.2.zip
+  url: https://git.yumenaka.net/https://github.com/openGiraffes/ithome_kaios/releases/download/0.2/ithome-omnisd-0.2.zip
   version: "0.2"
 type: privileged
 locales: 
@@ -18,7 +18,7 @@ license: MIT
 author: zixing
 maintainer: 
   - zixing
-  - openkaios
+  - openGiraffes
 dependencies: 
 #donation is optional
 donation:

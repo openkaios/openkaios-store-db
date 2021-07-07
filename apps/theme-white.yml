@@ -20,7 +20,7 @@ maintainer:
   - Lcsunm
 dependencies: 
   - name: Intent
-    url: https://store.openkaios.top/#intent
+    url: https://store.opengiraffes.top/#intent
 # donation is optional
 # donation:
 has_ads: false

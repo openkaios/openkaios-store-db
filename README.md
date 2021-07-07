@@ -1,15 +1,15 @@
-# openKaiOS Store - DB
+# openGiraffes Store - DB
 
-这里是 openKaiOS 商店的数据库仓库，这里是基于 bHacker 的非官方商店。
+这里是 openGiraffes 商店的数据库仓库，这里是基于 bHacker 的非官方商店。
 
 ## 文档
 
-请前往此处查看：[https://docs.openkaios.top/#/store/main](https://docs.openkaios.top/#/store/main)
+请前往此处查看：[https://docs.opengiraffes.top/#/store/main](https://docs.opengiraffes.top/#/store/main)
 
 ## 客户端
 
 ### KaiOS / GerdaROM devices
-- https://github.com/openkaios/openkaios-store-client
+- https://github.com/openGiraffes/openGiraffes-store-client
 
 ### Desktop Website
  （暂无）

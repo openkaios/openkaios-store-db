@@ -1,22 +1,22 @@
 name: 哔哩哔哩 (Dev)
 description: 哔哩哔哩 for KaiOS 非官方客户端 (开发版)
-icon: https://cdn.jsdelivr.net/gh/openkaios/bilibili_kaios@main/application/img/icons/icon128x128.png
+icon: https://cdn.jsdelivr.net/gh/openGiraffes/bilibili_kaios@main/application/img/icons/icon128x128.png
 # screenshots are optional
 screenshots:
   
 # website is optional
-website: https://github.com/openkaios/bilibili_kaios
+website: https://github.com/openGiraffes/bilibili_kaios
 # git repo is optional
-git_repo: https://github.com/openkaios/bilibili_kaios
+git_repo: https://github.com/openGiraffes/bilibili_kaios
 download:
-  url: https://git.yumenaka.net/https://github.com/openkaios/bilibili_kaios/releases/download/nightly/bilibili_kaios-omnisd-nightly.zip
+  url: https://git.yumenaka.net/https://github.com/openGiraffes/bilibili_kaios/releases/download/nightly/bilibili_kaios-omnisd-nightly.zip
   version: "nightly"
 type: privileged
 locales: 
   - 中文(简体)
 license: MIT
-author: openkaios
-maintainer: openkaios
+author: openGiraffes
+maintainer: openGiraffes
 dependencies: 
 #donation is optional
 donation:

@@ -1,15 +1,15 @@
 name: 车来了
 description: 车来了 KaiOS 版
-icon: https://cdn.jsdelivr.net/gh/openkaios/chelaile@1.0/application/img/icon120x120.png
+icon: https://cdn.jsdelivr.net/gh/openGiraffes/chelaile@1.0/application/img/icon120x120.png
 # screenshots are optional
 screenshots:
   
 # website is optional
 website: https://www.chelaile.net.cn/
 # git repo is optional
-git_repo: https://github.com/openkaios/chelaile
+git_repo: https://github.com/openGiraffes/chelaile
 download:
-  url: https://git.yumenaka.net/https://github.com/openkaios/chelaile/releases/download/1.0.1/chelaile-omnisd-1.0.1.zip
+  url: https://git.yumenaka.net/https://github.com/openGiraffes/chelaile/releases/download/1.0.1/chelaile-omnisd-1.0.1.zip
   version: "1.0.1"
 type: certified
 locales: 
@@ -18,7 +18,7 @@ license: MIT
 author: michael_eddy
 maintainer: 
   - michael_eddy
-  - openkaios
+  - openGiraffes
 dependencies: 
 #donation is optional
 donation:

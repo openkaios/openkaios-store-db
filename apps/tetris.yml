@@ -1,15 +1,15 @@
 name: Tetris
 description: 俄罗斯方块.
-icon: https://cdn.jsdelivr.net/gh/openkaios/openkaios-store-binary@main/default-icons/icon128x128.png
+icon: https://cdn.jsdelivr.net/gh/openGiraffes/openGiraffes-store-binary@main/default-icons/icon128x128.png
 # screenshots are optional
 # screenshots: 
   
 # website is optional
-website: https://github.com/openkaios/tetris
+website: https://github.com/openGiraffes/tetris
 # git repo is optional
-git_repo: https://github.com/openkaios/tetris
+git_repo: https://github.com/openGiraffes/tetris
 download:
-  url: https://git.yumenaka.net/https://github.com/openkaios/tetris/releases/download/1.0/tetris-omnisd-1.0.zip
+  url: https://git.yumenaka.net/https://github.com/openGiraffes/tetris/releases/download/1.0/tetris-omnisd-1.0.zip
   version: "1.0"
 type: privileged
 locales: 
