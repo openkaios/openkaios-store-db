@@ -1,0 +1,8 @@
+{
+    "HostPrefix": "storedb.opengiraffes.top/",
+    "title": "openGiraffes Store Apps",
+    "description": "List of all Apps as RSS Feed from openGiraffes Store",
+    "site_url": "https://storedb.opengiraffes.top/data.json",
+    "docs": "https://storedb.opengiraffes.top/",
+    "language": "Chinese"
+}
