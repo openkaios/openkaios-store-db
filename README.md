@@ -1,54 +1,27 @@
-## Generator
+# openGiraffes Store - DB
 
-This small nodejs program validates all apps, downloads their screenshots and app icon and then generates the files that are accessible on the endpoint that is to be consumed by the apps.
+这里是 openGiraffes 商店的数据库仓库，这里是基于 bHacker 的非官方商店。
 
-Before starting it you need to go into this directory and install its dependencies via `npm install`. (If npm is not installed you need to install nodejs first, we recommend instalation via https://github.com/nvm-sh/nvm).
+提交应用请切换到 [`apps` 分支](https://github.com/openGiraffes/openGiraffes-store-db/tree/apps)。
 
-To start the generation run:
+关于生成脚本的介绍请查阅：[README-Generator.md](./README-Generator.md)
 
-```sh
-HOST_PREFIX="banana-hackers.gitlab.io/store-db/" node index.js
-```
+## 文档
 
-If you want to run this command on windows instead you need to define the `HOST_PREFIX` enviroment variable with different method.
+请前往此处查看：[https://docs.opengiraffes.top/#/store/main](https://docs.opengiraffes.top/#/store/main)
 
-## Settings
+## 客户端
 
-Currently there is only the `HOST_PREFIX` variable which tells the generator where its output should be hosted.
+### KaiOS / GerdaROM devices
+- https://github.com/openGiraffes/openGiraffes-store-client
 
-## Documentation
+### Desktop Website
+ （暂无）
 
-The output of the generator has the following structure:
+## Backend
+本商店的基本构成均基于以下项目：
 
-```sh
-├── data.json # the dataset with all apps and categories
-├── icons
-│   ├── [appid]
-│   │   ├── screenshot[index].png
-│   │   └── ...
-│   ├── [appid].png
-│   └── ...
-├── lastUpdate.txt # unix timestamp
-└── schema.json # machine readable documentation of the data.json format
-```
-
-`schema.json` is a [json schema](http://json-schema.org/) describing the format of `data.json`.
-It can be used to generate typedefinitons or to generate a human readable documentation file.
-
-
-### Changing the structure
-
-First create an issue and discuss your change with the others.
-Then sumbit a merge request containing everything that is needed for such a change:
-
-
-- **If** your change changes the input (`.yaml`) format:**
-  - make sure to update `all apps`/`all categories` to be compliant with the new format
-  - make sure the `DOCUMENTATION.md` file and the example files in the `example/`-folder are up to date with your format change
-  - makes sure the validation part of the generator is happy and does not produce any errors. (run the generator to find out)
-
-- **If** you change the output format (`data.json` and for that matter everything else the generator script spits out):
-  - make sure you have also updated `_generator/schema.json` to document your change.
-  - **If** the change is incompatible (for example removed a property, changed type of property, (re)moved files) with older clients:
-    - increase the `data.json`- version number by 1 (you can need to adjust that number inside of `index.js`)
-        - document your change in `_generator/data-json-changelog.md` and notify the client developers that they should support the new format BEFORE MERGING your PR.
+ - DB & DB Generator: [https://gitlab.com/banana-hackers/store-db](https://gitlab.com/banana-hackers/store-db)
+ - Client: [https://github.com/strukturart/bHacker-store-client](https://github.com/strukturart/bHacker-store-client)
+ - Web: [https://github.com/jkelol111/webstore](https://github.com/jkelol111/webstore)
+ - Rating Server: [https://gitlab.com/banana-hackers/simple-ratings-server](https://gitlab.com/banana-hackers/simple-ratings-server)
