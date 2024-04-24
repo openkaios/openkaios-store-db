@@ -385,6 +385,8 @@ async function main() {
 
     await fs.copyFile(join(__dirname, 'schema.json'), join(PUBLIC, 'schema.json'))
 
+    await fs.copyFile(join(__dirname, 'index.html'), join(PUBLIC, 'index.html'))
+
     console.log("writing feed")
     await fs.writeFile(join(PUBLIC, 'feed.xml'), await generate_feed(apps, categories))
     
